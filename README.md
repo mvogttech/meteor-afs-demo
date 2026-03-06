@@ -4,7 +4,7 @@ https://forums.meteor.com/t/adaptive-federated-streams-afs/64484
 
 A working Meteor app using PostgreSQL instead of MongoDB. No extra config, no external database to install — just `meteor run` and it works.
 
-https://github.com/mvogttech/meteor-afs-demo/raw/main/.assets/demo.mp4
+![Video](https://github.com/mvogttech/meteor-afs-demo/raw/main/.assets/demo.mp4)
 
 ## What is this?
 
